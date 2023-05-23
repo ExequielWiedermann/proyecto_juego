@@ -1,0 +1,91 @@
+ body {
+     text-align: center;
+     background: #ECF0F1;
+     padding-top: 620px;
+     margin: 0px;
+     height: 100%;
+ }
+ 
+ .boton {
+     text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+     box-shadow: #27AE60;
+     text-align: center;
+     text-decoration: none;
+     font-family: 'Helvetica Neue', Helvetica, sans-serif;
+     display: inline-block;
+     color: #FFF;
+     /* Prueba para quinto tercera */
+     background: #7F8C8D;
+     padding: 10px 20px;
+     white-space: nowrap;
+     -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+     border-radius: 100px;
+     margin: 10px 5px;
+     -webkit-transition: all 0.2s ease-in-out;
+     -ms-transition: all 0.2s ease-in-out;
+     -moz-transition: all 0.2s ease-in-out;
+     -o-transition: all 0.2s ease-in-out;
+     transition: all 0.2s ease-in-out;
+ }
+ 
+ .azul {
+     background: #3b5e75;
+     box-shadow: 15px 15px 15px 15px #2980B9;
+ }
+ 
+ .azul:hover {
+     background: #39a0e5;
+ }
+ 
+ .azul:active {
+     box-shadow: 0px 2px 0px 0px #2980B9;
+ }
+ 
+ .verde {
+     background: #2ECC71;
+     box-shadow: 0px 5px 0px 0px #27AE60;
+ }
+ 
+ .verde:hover {
+     background: #32db78;
+ }
+ 
+ .verde:active {
+     box-shadow: 0px 2px 0px 0px #27AE60;
+ }
+ 
+ .rojo {
+     background: #E74C3C;
+     box-shadow: 0px 5px 0px 0px #C0392B;
+ }
+ 
+ .rojo:hover {
+     background: #ff5242;
+ }
+ 
+ .rojo:active {
+     box-shadow: 0px 2px 0px 0px #C0392B;
+ }
+ /*Fondo del tablero*/
+ /* */
+ 
+ .mario {}
+ 
+ .luigi {}
+ 
+ #tablero {
+     margin-top: 10px;
+     background: url(web), url(https://i.pinimg.com/originals/32/fc/80/32fc805a2be1a19ff4f1b46050f42cb3.gif);
+     box-shadow: 0 10px 10px -6px rgba(0, 0, 0, .6);
+     border-radius: 3px, 3px;
+     border-collapse: collapse;
+     height: 500px;
+     width: 500px;
+     position: absolute;
+     top: 10px;
+     right: 0;
+     bottom: 0;
+     left: 0;
+     margin: auto;
+ }
