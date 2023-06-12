@@ -30,20 +30,20 @@
  }
  
  .azul {
-     background: #3b5e75;
-     box-shadow: 0px 2px 0px 0px #2980B9;
+     background: #0591ee;
+     box-shadow: 0px 5px 0px 0px #65bbf5;
  }
  
  .azul:hover {
-     background: #39a0e5;
+     background: #034d7e;
  }
  
  .azul:active {
-     box-shadow: 0px 2px 0px 0px #2980B9;
+     box-shadow: 0px 2px 0px 0px #64bcf7;
  }
  
  .verde {
-     background: #2ECC71;
+     background: #35965d;
      box-shadow: 0px 5px 0px 0px #27AE60;
  }
  
@@ -56,16 +56,29 @@
  }
  
  .rojo {
-     background: #E74C3C;
-     box-shadow: 0px 5px 0px 0px #C0392B;
+     background: #813027;
+     box-shadow: 0px 5px 0px 0px #f46c5d;
  }
  
  .rojo:hover {
-     background: #ff5242;
+     background: #550903;
  }
  
  .rojo:active {
-     box-shadow: 0px 2px 0px 0px #C0392B;
+     box-shadow: 0px 2px 0px 0px #ea8479;
+ }
+ 
+ .amarillo {
+     background: #87923f;
+     box-shadow: 0px 5px 0px 0px #c0f904;
+ }
+ 
+ .amarillo:hover {
+     background: #738104;
+ }
+ 
+ .amarillo:active {
+     box-shadow: 0px 2px 0px 0px #e9f862;
  }
  /*Fondo del tablero*/
  /* */
