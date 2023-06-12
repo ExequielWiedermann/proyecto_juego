@@ -84,7 +84,7 @@
  /* */
  
  #tablero {
-     background-image: url(https://i.pinimg.com/originals/32/fc/80/32fc805a2be1a19ff4f1b46050f42cb3.gif);
+     background-image: url("https://i.pinimg.com/originals/32/fc/80/32fc805a2be1a19ff4f1b46050f42cb3.gif");
      box-shadow: 0 10px 10px -6px rgba(0, 0, 0, .6);
      border-radius: 3px, 3px;
      border-collapse: collapse;
