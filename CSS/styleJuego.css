@@ -1,0 +1,23 @@
+.classDerecha {
+    float: right;
+}
+
+.classIzquierda {
+    float: left;
+}
+
+
+/*
+Para alinear tres botones a la izquiera y tres a la derecha
+era con la propiedad float, con los valores left(izquierda) 
+y right(derecha)
+*/
+
+
+/*
+Explicar 
+
+    align-items: center;
+    display: flex;
+    list-style-type: none;
+*/
